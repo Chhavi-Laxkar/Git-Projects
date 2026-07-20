@@ -37,6 +37,3 @@ elif select == 5 :
     print("Average =", average(num1 , num2))    
 else :
     print("Invalid input")
-
-
-
